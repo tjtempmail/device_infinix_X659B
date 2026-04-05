@@ -10,7 +10,7 @@ AB_OTA_PARTITIONS += \
     boot \
     dtbo \
     lk \
-    preloader \s
+    preloader \
     product \
     system \
     vbmeta \
@@ -60,7 +60,7 @@ PRODUCT_PACKAGES += \
 # health Hal
 PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl \
-    android.hardware.health@2.1-service \
+    android.hardware.health@2.1-service
 
 # VNDK
 PRODUCT_TARGET_VNDK_VERSION := 30
