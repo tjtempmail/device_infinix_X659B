@@ -9,7 +9,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 
 # Inherit from Infinix-X659B device
-$(call inherit-product, device/infinix/Infinix-X659B/device.mk)
+$(call inherit-product, device/infinix/X659B/device.mk)
 
 PRODUCT_DEVICE := X659B
 PRODUCT_NAME := twrp_X659B
