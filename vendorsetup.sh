@@ -1,3 +1,0 @@
-add_lunch_combo twrp_X659B-user
-add_lunch_combo twrp_X659B-userdebug
-add_lunch_combo twrp_X659B-eng
